@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
+BookingApp has two custom tags in it's index.html document.
+When the app is run, the two tags are filled by the content generated from two different apps; decoupling functionality and achiving a micro-service approach as such using angular elements.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
